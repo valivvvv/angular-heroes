@@ -1,0 +1,4 @@
+bash 1 :  $ npm run build:watch
+bash 2 :  $ npm run serve
+
+https://angular.io/docs/ts/latest/tutorial/toh-pt5.html
